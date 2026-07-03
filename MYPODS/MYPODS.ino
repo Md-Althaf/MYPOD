@@ -194,7 +194,6 @@ void audio_eof_mp3(const char* info) {
       trackIndex = 0; 
     }
     sdAudio.connecttoFS(SD, playlist[trackIndex].c_str());
-    
     tft.fillScreen(ST77XX_BLACK);
     tft.setCursor(5, 10);
     tft.print("SD MODE:");
