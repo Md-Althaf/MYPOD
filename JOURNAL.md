@@ -1,13 +1,13 @@
 ---
 title: "MYPOD"
 author: "BOSE-NOVA"
-description: ""
+description: "MYPODS is a handheld Music Player , which u can listen music via Bluetooth or play from SD card and control Songs , listen music via headphone jack , Also Get songs meta data on the display ."
 created_at: "2026-03-20"
 ---
 
 # 7/1/2026 8 AM - 3D Case done
 
-_Time spent: 3h_
+_Time spent: 2h_
 
 I have very little experience with Fusion 360, but not with 3D modeling. I started with Blender and I'm pretty good at it, but Fusion 360 is still new to me. Because of that, it took me a long time to create this model.
 
@@ -80,8 +80,12 @@ My pod is a handheld music player u can listen to music via wired earphones over
 _Time spent: 3h_
 
 
-Completed the code and changed the ESP32-S3 TO ESP32 as in my search for libraries i concluded that S3 can't  recieve audio data over bluetooth so i switched to esp32 .
-
+Completed the code and changed the ESP32-S3 TO ESP32 as in my search for libraries i concluded 
+that S3 can't  recieve audio data over bluetooth so i switched to esp32 .
+So i have to redone the schematics for esp32 .
+Also changed the code completely i didnt recorded the timelapse also first i was using the 
 ![SCHEMATIC image](Images/image.png)
 https://lapse.hackclub.com/timelapse/C1CmekGi5kCg
 https://lapse.hackclub.com/timelapse/6sTZUo41alyg
+
+
