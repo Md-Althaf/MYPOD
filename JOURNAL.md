@@ -41,7 +41,9 @@ https://learn.adafruit.com/adafruit-tlv320dac3100-i2s-dac/circuitpython
 
 _Time spent: 2h_
 
-I have an idea to build it, but to build it, I have to find Parts for it, so I found some parts that are cheaper, good, and best for Mypod .
+It is hard to find Items with its dimensions 
+also some parts which are cheaper are either out of stock or cant be shipped to my location.
+
 
 1.Display (This is best this is different this is a strip display perfect for handheld device and also it is perfect for using esp32)
 
@@ -49,10 +51,12 @@ I have an idea to build it, but to build it, I have to find Parts for it, so I f
 2.DAC (It is DAC esp32 can't generate analog signals, so we need DAC for this bonus, it has a speaker output also)
 
 ![image](https://stasis.hackclub-assets.com/images/1782332530374-rsuut0.png)
+I cant find any cheaper options i got this it looks great but dont know how it works also no tutorial in yt .
 
 3.ESP32-S3 (Main component for the Mypod It 
 controls everything)
 ![image](https://stasis.hackclub-assets.com/images/1782332572061-y4wwkk.png)
+.
 
 4.Battery(I am using 2x 1200mah battery as 1200 mah baterry is in perfect size and i My pod has to have a longer working duration)
 
@@ -63,7 +67,7 @@ controls everything)
 ![image](https://stasis.hackclub-assets.com/images/1782332781688-v5gp46.png)
 
 
-It almost took me 1.5 hr to find the items cause i amnot getting smaller boards, especially display and DAC. I can't find the perfect size one; mostly, out there are bigger sizes. But i get perfect display and DAC of perfect sizes and specifications 
+It almost took me 1.5 hr to find the items cause i am not getting smaller boards, especially display and DAC. I can't find the perfect size one; mostly
 
 #MyPod
 My pod is a handheld music player u can listen to music via wired earphones over Bluetooth if you don't have and wirless Ear phones or want to use wired earphones to use as one just plug it and connect to esp32 and just play music and control it and can also play music form sd card .
@@ -83,7 +87,7 @@ _Time spent: 3h_
 Completed the code and changed the ESP32-S3 TO ESP32 as in my search for libraries i concluded 
 that S3 can't  recieve audio data over bluetooth so i switched to esp32 .
 So i have to redone the schematics for esp32 .
-Also changed the code completely i didnt recorded the timelapse also first i was using the 
+Also changed the code completely i didnt recorded the timelapse .
 ![SCHEMATIC image](Images/image.png)
 https://lapse.hackclub.com/timelapse/C1CmekGi5kCg
 https://lapse.hackclub.com/timelapse/6sTZUo41alyg
