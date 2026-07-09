@@ -5,6 +5,21 @@ description: "MYPODS is a handheld Music Player , which u can listen music via B
 created_at: "2026-03-20"
 ---
 
+
+# 7/2/2026 11 PM - CODE complete
+
+_Time spent: 3h_
+
+
+Completed the code and changed the ESP32-S3 TO ESP32 as in my search for libraries i concluded 
+that S3 can't  recieve audio data over bluetooth so i switched to esp32 .
+So i have to redone the schematics for esp32 .
+Also changed the code completely i didnt recorded the timelapse .
+![SCHEMATIC image](Images/image.png)
+https://lapse.hackclub.com/timelapse/C1CmekGi5kCg
+https://lapse.hackclub.com/timelapse/6sTZUo41alyg
+
+
 # 7/1/2026 8 AM - 3D Case done
 
 _Time spent: 2h_
@@ -79,17 +94,5 @@ My pod is a handheld music player u can listen to music via wired earphones over
 ![image](https://stasis.hackclub-assets.com/images/1782332781688-v5gp46.png)
 
 
-# 7/2/2026 11 PM - CODE complete
-
-_Time spent: 3h_
-
-
-Completed the code and changed the ESP32-S3 TO ESP32 as in my search for libraries i concluded 
-that S3 can't  recieve audio data over bluetooth so i switched to esp32 .
-So i have to redone the schematics for esp32 .
-Also changed the code completely i didnt recorded the timelapse .
-![SCHEMATIC image](Images/image.png)
-https://lapse.hackclub.com/timelapse/C1CmekGi5kCg
-https://lapse.hackclub.com/timelapse/6sTZUo41alyg
 
 
