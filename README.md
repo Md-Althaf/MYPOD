@@ -1,6 +1,9 @@
 # MYPODS 
 MYPODS is a handheld Music Player , which u can listen music via Bluetooth or play from SD card and control Songs , listen music via headphone jack , Also Get songs meta data on the display .
 
+## Why i made this ?
+I made this so i can use my old wired headphones and try to make a mp3 player / Ipod . Giving Apple a competition .
+
 # Connection schematic
 ![Connections](Images/image.png)
 
