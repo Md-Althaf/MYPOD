@@ -5,13 +5,13 @@ MYPODS is a handheld Music Player , which u can listen music via Bluetooth or pl
 I made this so i can use my old wired headphones and try to make a mp3 player / Ipod . Giving Apple a competition .
 
 # Connection schematic
-![Connections](images/image.png)
+![Connections](Images/image.png)
 
 # 3D Model
-![3D model](images/3dimage2)
+![3D model](Images/3dimage2)
 
 # Library Used 
-![Libraries](images/image-2.png)
+![Libraries](Images/image-2.png)
 
  AudioTools - It transfer Audio smoothly from one place to another.
  BluetoothA2DPSink - It makes ESP32 as High-Quality Audio Receiver.

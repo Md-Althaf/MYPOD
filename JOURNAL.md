@@ -9,11 +9,11 @@ _Time spent: 1.5h_
 
 Done some changes in the 3d case added mouting structure for esp32 . and some more changes 
 like adding test and other things.
-![alt text](images/3dimage1.png)
-![alt text](images/3dimage2.png)
-![alt text](images/3dimage3.png)
-![alt text](images/3dimage4.png)
-![alt text](images/3dimage5.png)
+![alt text](Images/3dimage1.png)
+![alt text](Images/3dimage2.png)
+![alt text](Images/3dimage3.png)
+![alt text](Images/3dimage4.png)
+![alt text](Images/3dimage5.png)
 
 
 # 7/2/2026 11 PM - CODE complete
@@ -25,7 +25,7 @@ Completed the code and changed the ESP32-S3 TO ESP32 as in my search for librari
 that S3 can't  recieve audio data over bluetooth so i switched to esp32 .
 So i have to redone the schematics for esp32 .
 Also changed the code completely i didnt recorded the timelapse .
-![SCHEMATIC image](images/image.png)
+![SCHEMATIC image](Images/image.png)
 https://lapse.hackclub.com/timelapse/C1CmekGi5kCg
 https://lapse.hackclub.com/timelapse/6sTZUo41alyg
 
