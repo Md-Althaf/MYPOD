@@ -25,7 +25,7 @@ Completed the code and changed the ESP32-S3 TO ESP32 as in my search for librari
 that S3 can't  recieve audio data over bluetooth so i switched to esp32 .
 So i have to redone the schematics for esp32 .
 Also changed the code completely i didnt recorded the timelapse .
-![SCHEMATIC image](Images/image.png)
+![SCHEMATIC image](images/image.png)
 https://lapse.hackclub.com/timelapse/C1CmekGi5kCg
 https://lapse.hackclub.com/timelapse/6sTZUo41alyg
 
