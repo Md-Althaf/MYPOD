@@ -4,6 +4,16 @@ author: "BOSE-NOVA"
 description: "MYPODS is a handheld Music Player , which u can listen music via Bluetooth or play from SD card and control Songs , listen music via headphone jack , Also Get songs meta data on the display ."
 created_at: "2026-03-20"
 ---
+# 7/23/2026 8 PM - Case Reshaping
+_Time spent: 1.5h_
+
+Done some changes in the 3d case added mouting structure for esp32 . and some more changes 
+like adding test and other things.
+![alt text](images/3dimage1.png)
+![alt text](images/3dimage2.png)
+![alt text](images/3dimage3.png)
+![alt text](images/3dimage4.png)
+![alt text](images/3dimage5.png)
 
 
 # 7/2/2026 11 PM - CODE complete
