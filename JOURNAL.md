@@ -103,6 +103,6 @@ My pod is a handheld music player u can listen to music via wired earphones over
 ![image](https://stasis.hackclub-assets.com/images/1782332640787-mj6869.png)
 ![image](https://stasis.hackclub-assets.com/images/1782332781688-v5gp46.png)
 
-
+Total time spent: 11h
 
 
