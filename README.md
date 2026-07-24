@@ -8,7 +8,7 @@ I made this so i can use my old wired headphones and try to make a mp3 player / 
 ![Connections](Images/image.png)
 
 # 3D Model
-![3D model](Images/3dimage2)
+![alt text](Images/3dimage2.png)
 
 # Library Used 
 ![Libraries](Images/image-2.png)
